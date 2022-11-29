@@ -9,3 +9,9 @@ The following packages must be installed for the bot to work:
 5.PNG
 6.pyTelegramBotAPI
 
+I used Flask as a web server, UptimeRobot was used as a monitoring system.
+
+To write this bot I used the following tutorials:
+1. https://www.youtube.com/watch?v=NwBWW8cNCP4&list=LL&index=1
+2. https://www.youtube.com/watch?v=WN4qr3utOFs&list=LL&index=2&t=392s
+3. https://replit.com/talk/learn/Flask-Tutorial-Part-1-the-basics/26272
