@@ -17,4 +17,5 @@ To write this bot I used the following tutorials:
 3. https://replit.com/talk/learn/Flask-Tutorial-Part-1-the-basics/26272
 
 Working Bot looks like this: 
+
 ![image](https://user-images.githubusercontent.com/81326977/204529735-9421cfe3-57fd-4b77-8382-371c3fe9c03b.png)
