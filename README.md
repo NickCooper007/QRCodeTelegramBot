@@ -15,3 +15,6 @@ To write this bot I used the following tutorials:
 1. https://www.youtube.com/watch?v=NwBWW8cNCP4&list=LL&index=1
 2. https://www.youtube.com/watch?v=WN4qr3utOFs&list=LL&index=2&t=392s
 3. https://replit.com/talk/learn/Flask-Tutorial-Part-1-the-basics/26272
+
+Working Bot looks like this: 
+![image](https://user-images.githubusercontent.com/81326977/204529735-9421cfe3-57fd-4b77-8382-371c3fe9c03b.png)
